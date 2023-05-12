@@ -6,7 +6,7 @@
 - Solution URL: [Solution URL](https://github.com/aleksandrre/AntDisignWebApp)
 
 ## Screenshot
-![App Screenshot](https://github.com/aleksandrre/webAntDisignApp/assets/108459639/c87294b2-69ce-4acc-9675-539b7276dd2f)
+![App Screenshot](https://github.com/aleksandrre/AntDisignWebApp/assets/108459639/86edabb5-95f8-453e-b64a-31408c21cf21)
 ## Built with
 - React
 - react-router-dom
